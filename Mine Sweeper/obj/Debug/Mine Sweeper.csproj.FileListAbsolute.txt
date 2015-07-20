@@ -1,0 +1,5 @@
+c:\users\apcog\documents\visual studio 2012\Projects\Mine Sweeper\Mine Sweeper\bin\Mine Sweeper.dll
+c:\users\apcog\documents\visual studio 2012\Projects\Mine Sweeper\Mine Sweeper\bin\Mine Sweeper.pdb
+c:\users\apcog\documents\visual studio 2012\Projects\Mine Sweeper\Mine Sweeper\obj\Debug\Mine Sweeper.csprojResolveAssemblyReference.cache
+c:\users\apcog\documents\visual studio 2012\Projects\Mine Sweeper\Mine Sweeper\obj\Debug\Mine Sweeper.dll
+c:\users\apcog\documents\visual studio 2012\Projects\Mine Sweeper\Mine Sweeper\obj\Debug\Mine Sweeper.pdb
